@@ -1,4 +1,5 @@
 # 💫 About Me:
+
 Hi there! 👋 I'm Isabella Jones.<br><br>
 
 🎓Student of Computer Science at Oregon State University.<br><br>
@@ -19,8 +20,9 @@ Hi there! 👋 I'm Isabella Jones.<br><br>
 
 📫 Reach me at: Bellamijones@gmail.com<br><br>
 
-Let's code the future together! 💻✨
+Let's code the future together! 
 
+https://github.com/Bellajones4178/Bellajones4178/blob/main/giphy.gif
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
