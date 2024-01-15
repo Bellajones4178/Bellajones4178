@@ -1,4 +1,4 @@
-# 💫 About Me:
+![](https://github.com/Bellajones4178/Bellajones4178/blob/main/giphy%20(1).gif)
 
 Hi there! 👋 I'm Isabella Jones.<br><br>
 
