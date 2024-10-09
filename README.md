@@ -8,11 +8,11 @@ Hi there! 👋 I'm Isabella Jones.<br><br>
 
 🌐 Data Architect in the Making - Designing robust and scalable database solutions for dynamic applications.<br><br>
 
-💻 Tech Stack:<br>- Languages: Python<br>- Frameworks: <br>- Database: <br>- Tools: Git, VS Code<br><br>
+💻 Tech Stack:<br>- Languages: Python<br>- Frameworks: React <br>- Database: <br>- Tools: Git, VS Code<br><br>
 
 🔍 Exploring New Technologies - Always eager to learn and adapt to the latest in the tech world.<br><br>
 
-📚 Currently Learning: Data Structures, Computer Architecture<br><br>
+📚 Currently Learning: Database Management<br><br>
 
 🌟 Passionate about Open Source - Contributing to projects that make a difference.<br><br>
 
