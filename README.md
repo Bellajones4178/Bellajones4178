@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Isabella Jones.<br><br>
 
-🎓Student of Computer Science at Oregon State University.<br><br>
+🎓Recent Graduate of Computer Science at Oregon State University.<br><br>
 
 🚀 Aspiring DevOps Engineer - passionate about automating and optimizing development processes.<br><br>
 
