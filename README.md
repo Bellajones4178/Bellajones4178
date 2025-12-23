@@ -12,7 +12,7 @@ Hi there! 👋 I’m Isabella Jones.
 
 📫 Reach me at: Bellamijones@gmail.com<br><br>
 
-# 💻 Tech Stack:
+<h2> 💻 Tech Stack: </h2>
 Languages: Python, JavaScript, C
 Frameworks/Libraries: React, Flask, Node.js
 Database: PostgreSQL, SQLite
