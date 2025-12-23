@@ -12,9 +12,6 @@ Hi there! 👋 I’m Isabella Jones.
 
 📫 Reach me at: Bellamijones@gmail.com<br><br>
 
-Let's code the future together! 
-
-
 # 💻 Tech Stack:
 Languages: Python, JavaScript, C
 Frameworks/Libraries: React, Flask, Node.js
