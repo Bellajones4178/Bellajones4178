@@ -1,20 +1,14 @@
-Hi there! 👋 I'm Isabella Jones.<br><br>
+Hi there! 👋 I’m Isabella Jones.
 
-🎓Recent Graduate of Computer Science at Oregon State University.<br><br>
+🎓 Computer Science graduate from Oregon State University.
 
-🚀 Aspiring DevOps Engineer - passionate about automating and optimizing development processes.<br><br>
+🚀 Exploring opportunities across software, data, and AI, with a growing interest in building reliable, scalable systems.
 
-🌐 Data Architect in the Making - Designing robust and scalable database solutions for dynamic applications.<br><br>
+🔍 Always Learning — building hands-on projects, experimenting with new tools, and strengthening real-world engineering skills.
 
-💻 Tech Stack:<br>- Languages: Python, Javascript<br>- Frameworks: React <br>- Database: <br>- Tools: Git, VS Code<br><br>
+🌟 Open Source Curious — interested in contributing to projects with real-world impact.
 
-🔍 Exploring New Technologies - Always eager to learn and adapt to the latest in the tech world.<br><br>
-
-📚 Currently Learning: Database Management<br><br>
-
-🌟 Passionate about Open Source - Contributing to projects that make a difference.<br><br>
-
-🤝 Looking to Collaborate - Open to working on exciting projects and connecting with fellow developers.<br><br>
+🤝 Open to Collaborate — happy to connect, learn, and build with others.
 
 📫 Reach me at: Bellamijones@gmail.com<br><br>
 
